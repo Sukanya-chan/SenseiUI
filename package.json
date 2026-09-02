@@ -1,0 +1,29 @@
+{
+  "name": "senseiai",
+  "version": "0.1.0",
+  "description": "SenseiAI - futuristic Linux terminal and system dashboard",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron .",
+    "build:linux": "electron-builder --linux AppImage deb",
+    "build:win": "electron-builder --win",
+    "build:mac": "electron-builder --mac"
+  },
+  "dependencies": {
+    "node-pty": "^1.1.0",
+    "systeminformation": "^5.27.11"
+  },
+  "devDependencies": {
+    "electron": "^38.1.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.senseiai.desktop",
+    "productName": "SenseiAI",
+    "files": ["electron/**/*", "src/**/*", "ai/**/*", "package.json"],
+    "linux": {"target": ["AppImage", "deb"], "category": "Utility"},
+    "win": {"target": "nsis"},
+    "mac": {"target": "dmg"}
+  }
+}
