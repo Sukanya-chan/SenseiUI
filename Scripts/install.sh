@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -e
-echo "[SenseiAI] Installing prerequisites..."
+echo "[SenseiUI] Installing prerequisites..."
 sudo apt update
 sudo apt install -y nodejs npm build-essential python3
-echo "[SenseiAI] Installing Node dependencies..."
+echo "[SenseiUI] Installing Node dependencies..."
 npm install
-echo "[SenseiAI] Installation complete."
+echo "[SenseiUI] Installation complete."
 echo "Run: npm start"
