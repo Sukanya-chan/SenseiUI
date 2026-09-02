@@ -1,6 +1,6 @@
-# SenseiAI
+# SenseiUI
 
-SenseiAI is a Linux-first futuristic desktop terminal and system dashboard inspired by sci-fi HUD interfaces such as eDEX-UI.
+SenseiUI is a Linux-first futuristic desktop terminal and system dashboard inspired by sci-fi HUD interfaces such as eDEX-UI.
 
 ## Current v0.1 features
 - Electron desktop shell
