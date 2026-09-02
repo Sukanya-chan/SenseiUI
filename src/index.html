@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SenseiAI</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">◈</span>
+      <div><b>SENSEI<span>AI</span></b><small>NEURAL SYSTEM INTERFACE</small></div>
+    </div>
+    <div class="status">● SYSTEM ONLINE</div>
+    <div class="window-controls">
+      <button id="min">—</button><button id="max">□</button><button id="close">×</button>
+    </div>
+  </header>
+
+  <main class="grid">
+    <aside class="panel left">
+      <section class="card">
+        <h3>SYSTEM CORE</h3>
+        <div class="metric"><label>CPU</label><strong id="cpu">--%</strong></div>
+        <div class="bar"><i id="cpuBar"></i></div>
+        <div class="metric"><label>MEMORY</label><strong id="memory">--%</strong></div>
+        <div class="bar"><i id="memoryBar"></i></div>
+        <div class="metric"><label>DISK</label><strong id="disk">--%</strong></div>
+        <div class="bar"><i id="diskBar"></i></div>
+      </section>
+      <section class="card">
+        <h3>HOST</h3>
+        <p><span>NODE</span><b id="hostname">--</b></p>
+        <p><span>OS</span><b id="distro">--</b></p>
+        <p><span>KERNEL</span><b id="kernel">--</b></p>
+        <p><span>GPU</span><b id="gpu">--</b></p>
+        <p><span>UPTIME</span><b id="uptime">--</b></p>
+      </section>
+      <section class="card ai-card">
+        <h3>SENSEI ASSIST</h3>
+        <div id="aiOutput">Ask: “explain this command” or “diagnose my network”.</div>
+        <input id="aiInput" placeholder="Type a request...">
+        <button id="aiSend">ANALYZE</button>
+      </section>
+    </aside>
+
+    <section class="terminal card">
+      <div class="terminal-head"><span>TERMINAL // PRIMARY</span><span id="clock">--:--:--</span></div>
+      <pre id="terminalOutput"></pre>
+      <textarea id="terminalInput" spellcheck="false" autofocus></textarea>
+      <div class="terminal-help">REAL SHELL • ENTER TO EXECUTE • CTRL+C SUPPORTED</div>
+    </section>
+
+    <aside class="panel right">
+      <section class="card">
+        <h3>NETWORK FLOW</h3>
+        <div class="net-value">↓ <span id="rx">0 B/s</span></div>
+        <div class="net-value">↑ <span id="tx">0 B/s</span></div>
+        <div class="graph" id="graph"></div>
+      </section>
+      <section class="card">
+        <h3>POWER</h3>
+        <div class="power"><b id="battery">N/A</b><span id="charging"></span></div>
+      </section>
+      <section class="card">
+        <h3>QUICK COMMANDS</h3>
+        <button class="quick" data-cmd="ip addr">NETWORK STATUS</button>
+        <button class="quick" data-cmd="df -h">DISK STATUS</button>
+        <button class="quick" data-cmd="free -h">MEMORY STATUS</button>
+        <button class="quick" data-cmd="uname -a">KERNEL INFO</button>
+      </section>
+    </aside>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
