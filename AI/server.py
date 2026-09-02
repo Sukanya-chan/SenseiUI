@@ -1,5 +1,5 @@
 """
-Optional SenseiAI backend.
+Optional SenseiUI backend.
 This intentionally does not execute commands. It provides a safe boundary
 for connecting a local model such as Ollama later.
 """
@@ -28,5 +28,5 @@ class Handler(BaseHTTPRequestHandler):
         })
 
 if __name__=="__main__":
-    print("SenseiAI optional backend listening on http://127.0.0.1:8765")
+    print("SenseiUI optional backend listening on http://127.0.0.1:8765")
     HTTPServer(("127.0.0.1",8765),Handler).serve_forever()
