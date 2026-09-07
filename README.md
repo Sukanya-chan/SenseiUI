@@ -63,7 +63,7 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 *   **Security & Data:** Practical penetration testing, secure script development, and localized machine learning implementation.
 
 ## 🔗 Link
-*   **LinkedIn:** https://www.linkedin.com/in/sukanya-chandra-71b032435
+*   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sukanya-chandra-71b032435)
 *   **GitHub:** https://github.com/Sukanya-chan
 
 ## 🧭 Roadmap
