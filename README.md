@@ -64,7 +64,7 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 
 ## 🔗 Link
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sukanya_Chandra-like_blue)](https://www.linkedin.com/in/sukanya-chandra-71b032435)
-*   [![GitHub](https://shields.io)](https://github.com/Sukanya-chan)
+*   [![GitHub](https://img.shields.io/badge/GitHub-Sukanya_Chan-like_blue)](https://github.com/Sukanya-chan)
 
 ## 🧭 Roadmap
 v0.2: xterm.js terminal rendering, command history, themes.
