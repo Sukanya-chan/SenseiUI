@@ -73,4 +73,4 @@ v1.0: polished desktop-shell mode and signed releases.
 ## License
 ****no License****
 
-**"Does human really need to be cured from their evilness?"**
+*"Does human really need to be cured from their evilness?"*
