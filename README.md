@@ -64,7 +64,7 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 
 ## 🔗 Link
 *   [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)](https://www.linkedin.com/in/sukanya-chandra-71b032435)
-*   **GitHub:** https://github.com/Sukanya-chan
+*   [![GitHub](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg)] (https://github.com/Sukanya-chan)
 
 ## 🧭 Roadmap
 v0.2: xterm.js terminal rendering, command history, themes.
