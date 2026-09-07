@@ -67,10 +67,10 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 *   [![GitHub](https://img.shields.io/badge/GitHub-Sukanya_Chan-like_blue)](https://github.com/Sukanya-chan)
 
 ## 🧭 Roadmap
-v0.2: xterm.js terminal rendering, command history, themes.
-v0.3: process viewer, filesystem browser, network diagnostics.
-v0.4: local Ollama integration with command-risk classifier.
-v1.0: polished desktop-shell mode and signed releases.
+* v0.2: xterm.js terminal rendering, command history, themes.
+* v0.3: process viewer, filesystem browser, network diagnostics.
+* v0.4: local Ollama integration with command-risk classifier.
+* v1.0: polished desktop-shell mode and signed releases.
 
 ## 📁 License
 ****no License****
