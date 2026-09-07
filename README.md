@@ -44,6 +44,7 @@ The Python service is deliberately isolated and does not execute shell commands.
 AI-generated commands must never be executed blindly. Future AI integration should classify commands by risk and require explicit user confirmation for privileged/destructive operations.
 
 ## ✨ About Me ✨
+
 👋 Hi!, I'm Ms. Sukanya Chandra.
 👩‍🔬 Engineering student specializing in Computer Science, Systems Architecture, and Cybersecurity. Focused on low-overhead environments, lightweight tooling, and deep-dive technical implementations.
 
@@ -61,16 +62,19 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 *   **Systems Customization:** Maintaining a highly customized, performance-optimized workspace featuring a strict cyberpunk aesthetic.
 *   **Security & Data:** Practical penetration testing, secure script development, and localized machine learning implementation.
 
-## Link
-*   ** LinkedIn :- ** = "https://www.linkedin.com/in/sukanya-chandra-71b032435?"
-
+## 🔗 Link
+*   ** LinkedIn :- ** = "https://www.linkedin.com/in/sukanya-chandra-71b032435"
+*   ** GitHub :- ** = ""
+  
 ## 🧭 Roadmap
 v0.2: xterm.js terminal rendering, command history, themes.
 v0.3: process viewer, filesystem browser, network diagnostics.
 v0.4: local Ollama integration with command-risk classifier.
 v1.0: polished desktop-shell mode and signed releases.
 
-## License
+## 📁 License
 ****no License****
 
+
+## 💭 Quote
 *"Does human really need to be cured from their evilness?"*
