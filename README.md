@@ -63,9 +63,9 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 *   **Security & Data:** Practical penetration testing, secure script development, and localized machine learning implementation.
 
 ## 🔗 Link
-*   ** LinkedIn :- ** = "https://www.linkedin.com/in/sukanya-chandra-71b032435"
-*   ** GitHub :- ** = ""
-  
+*   **LinkedIn:** https://www.linkedin.com/in/sukanya-chandra-71b032435
+*   **GitHub:** https://github.com/Sukanya-chan
+
 ## 🧭 Roadmap
 v0.2: xterm.js terminal rendering, command history, themes.
 v0.3: process viewer, filesystem browser, network diagnostics.
@@ -74,7 +74,6 @@ v1.0: polished desktop-shell mode and signed releases.
 
 ## 📁 License
 ****no License****
-
 
 ## 💭 Quote
 *"Does human really need to be cured from their evilness?"*
