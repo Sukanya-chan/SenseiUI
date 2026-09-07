@@ -64,7 +64,7 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 
 ## 🔗 Link
 *   [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)](https://www.linkedin.com/in/sukanya-chandra-71b032435)
-*   [![GitHub](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg)] (https://github.com/Sukanya-chan)
+*   [![GitHub](https://www.google.com/search?client=ms-android-samsung-ss&hs=Oeaq&sca_esv=a39be9d9e408cef3&sxsrf=APpeQnsY_NDJfgErayW8jA035pH8a6oKOg:1788801832761&udm=2&fbs=ABfTbFUxGEP8yeZbmk97ajdTjIq-1SYeWocr-JQ01ak8-2VFVc-G1_pZrygIAtw89UfRnn2JTk96NQ8iZgRS-5-sk-hilb_lFxG7MWlugAMGrml2mb6mTTP61cGl534ILUAoAbBcQvZ7URyw0IfioQxsqnG5YyisgUlKlIcdoTLzpr09FcK4JhesgrC_91E-GhnGlBB7ye5sWnqZ5HGEwIuAVUwkUgKa02ltvgHTolCZvjRcm--LDx4&q=github+logo&sa=X&ved=2ahUKEwi_vMKO_tyWAxX3dfUHHRq1B3MQtKgLegQIEhAB&biw=384&bih=762&dpr=2.81#sv=CAMSZBoyKhBlLUxwMk9xVTdmUGRqU01NMg5McDJPcVU3ZlBkalNNTToOa0hsQzBmSENneVdoVE0gBCokCg5PamlTUnJWNmxFS0lSTRIQZS1McDJPcVU3ZlBkalNNTRgAMAFKBAgBEAIYByC_ocTxCkoIEAIYASACKAE)] (https://github.com/Sukanya-chan)
 
 ## 🧭 Roadmap
 v0.2: xterm.js terminal rendering, command history, themes.
