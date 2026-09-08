@@ -44,7 +44,7 @@ The Python service is deliberately isolated and does not execute shell commands.
 AI-generated commands must never be executed blindly. Future AI integration should classify commands by risk and require explicit user confirmation for privileged/destructive operations.
 
 ## logo
-https://github.com/Sukanya-chan/SenseiUI/blob/SkyNovA/assests%2Fsplash%2Ffallback%2FSenseiUI.mp4
+https://github.com/Sukanya-chan/SenseiUI/blob/SkyNovA/assests%2Fbranding%2FSenseiUI.svg
 
 ## ✨ About Me ✨
 👋 Hi!, I'm Ms. Sukanya Chandra.
