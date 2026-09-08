@@ -44,12 +44,10 @@ The Python service is deliberately isolated and does not execute shell commands.
 AI-generated commands must never be executed blindly. Future AI integration should classify commands by risk and require explicit user confirmation for privileged/destructive operations.
 
 ## ✨ About Me ✨
-
 👋 Hi!, I'm Ms. Sukanya Chandra.
 👩‍🔬 Engineering student specializing in Computer Science, Systems Architecture, and Cybersecurity. Focused on low-overhead environments, lightweight tooling, and deep-dive technical implementations.
 
 ## 🛠️ Tech Stack & Environment 🛠
-
 *   **OS:** Arch Linux / Kali Linux (Bare Metal HDD Deployment)
 *   **Languages:** C++, Python, Java, Bash, Verilog, HTML, CSS, JS(Three.js, node.js)
 *   **Web & Architecture:** MEAN Stack, Web Design, Firebase, RTL to GDS Flow
@@ -57,7 +55,6 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 *   **Designing:** System emulator designed, Figama, Blender engine, PhotoShop
 
 ## 🪐 Current Focus & Specializations
-
 *   **Hardware Modeling:** Digital circuit modeling and custom hardware design using Verilog.
 *   **Systems Customization:** Maintaining a highly customized, performance-optimized workspace featuring a strict cyberpunk aesthetic.
 *   **Security & Data:** Practical penetration testing, secure script development, and localized machine learning implementation.
@@ -65,6 +62,7 @@ AI-generated commands must never be executed blindly. Future AI integration shou
 ## 🔗 Link
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sukanya_Chandra-blue)](https://www.linkedin.com/in/sukanya-chandra-71b032435)
 *   [![GitHub](https://img.shields.io/badge/GitHub-Sukanya_Chan-like_blue)](https://github.com/Sukanya-chan)
+
 
 ## 🧭 Roadmap
 * v0.2: xterm.js terminal rendering, command history, themes.
