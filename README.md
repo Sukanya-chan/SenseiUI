@@ -43,6 +43,9 @@ The Python service is deliberately isolated and does not execute shell commands.
 ## 🔐 Security model
 AI-generated commands must never be executed blindly. Future AI integration should classify commands by risk and require explicit user confirmation for privileged/destructive operations.
 
+## logo
+https://github.com/Sukanya-chan/SenseiUI/blob/SkyNovA/assests%2Fsplash%2Ffallback%2FSenseiUI.mp4
+
 ## ✨ About Me ✨
 👋 Hi!, I'm Ms. Sukanya Chandra.
 👩‍🔬 Engineering student specializing in Computer Science, Systems Architecture, and Cybersecurity. Focused on low-overhead environments, lightweight tooling, and deep-dive technical implementations.
